@@ -1,0 +1,8 @@
+Package: com.local.voicepanel
+Name: VoicePanel
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Standalone floating interface demo (audio/network options are visual only)
+Maintainer: local
+Author: local
+Section: Tweaks
